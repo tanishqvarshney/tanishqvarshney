@@ -1,7 +1,7 @@
 ![Header](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 
 <h1 align="center">Hi 👋, I'm Tanishq Varshney</h1>
-<h3 align="center">Full-Stack Software Engineer | Java • Spring Boot • React</h3>
+<h3 align="center">Software Engineer</h3>
 
 <div align="center">
   <img height="150" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
@@ -22,7 +22,6 @@
 
 - 🔭 I’m currently working as an **Associate Software Engineer (Full-Stack / Backend)**
 - 🌱 I’m currently deepening my knowledge of **Spring Boot, Microservices & System Design**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, DSA**
 - ⚡ I enjoy building real-world, production-ready systems and full-stack apps
 - 📫 How to reach me: **tanishqvarshney9455@gmail.com**, **tanishqvarshney07@gmail.com**
 
@@ -67,4 +66,7 @@
 
 
 
-</div> ### <h3 align="left">🔥 My GitHub Stats :</h3> ### <div align="center"> <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> </div> <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqvarshney&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqvarshney" /> </p>
+</div> 
+  <h3 align="left">🔥 My GitHub Stats :</h3>  
+  <div align="center"> <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> 
+  </div> <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqvarshney&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqvarshney" /> </p>
