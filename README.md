@@ -65,20 +65,6 @@
 
 ---
 
-<h3 align="left">🔥 My GitHub Stats</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tanishqvarshney&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishqvarshney&show_icons=true&theme=dark&hide_border=false" height="180" alt="github stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqvarshney&layout=compact&theme=dark&hide_border=false" height="180" alt="top langs" />
-</div>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tanishqvarshney&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqvarshney" />
-</p>
+</div> ### <h3 align="left">🔥 My GitHub Stats :</h3> ### <div align="center"> <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> </div> <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqvarshney&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqvarshney" /> </p>
