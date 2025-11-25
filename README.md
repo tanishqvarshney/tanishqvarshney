@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tanishq Varshney</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <div align="center">
   <img height="150" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"  />
 </div>
@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **DSA**
 
-- 📫 How to reach me **tanishqvarshney9455@gmail.com**
+- 📫 How to reach me **tanishqvarshney9455@gmail.com** , **tanishqvarshney07@gmail.com**
 
 ###
 
