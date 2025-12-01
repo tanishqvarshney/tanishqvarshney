@@ -20,7 +20,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-- 🔭 I’m currently working as an **Associate Software Engineer (Full-Stack / Backend)**
+- 🔭 I’m currently working as an **Software Engineer (Full-Stack / Backend)**
 - 🌱 I’m currently deepening my knowledge of **Spring Boot, Microservices & System Design**
 - ⚡ I enjoy building real-world, production-ready systems and full-stack apps
 - 📫 How to reach me: **tanishqvarshney9455@gmail.com**, **tanishqvarshney07@gmail.com**
