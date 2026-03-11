@@ -32,15 +32,10 @@
 ```yaml
 name        : Tanishq Varshney
 role        : Software Engineer — Full-Stack · Backend · AI/ML
-company     : Bidgely, Bangalore
 location    : Noida, India  →  open to Delhi NCR · Pune
 experience  : 1.5+ years (enterprise-grade production systems)
-education   : M.Sc. Computer Science · Woolf University
+education   : M.S Computer Science · Woolf University
                B.Tech CSE · AKTU
-
-currently   : Engineering Spring Boot microservices & data pipelines
-              for 7+ global utility clients
-building    : DocuMind — production RAG system (GPT-4 · FAISS · AWS)
 learning    : LLM fine-tuning · Distributed Systems · System Design
 seeking     : Backend · Full-Stack · AI Engineer roles
 contact     : tanishqvarshney9455@gmail.com
