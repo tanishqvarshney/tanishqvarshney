@@ -164,10 +164,6 @@ contact     : tanishqvarshney9455@gmail.com
   <img src="https://streak-stats.demolab.com?user=tanishqvarshney&theme=github-dark&hide_border=true&background=0d1117&fire=e2b96f&ring=e2b96f&currStreakLabel=e2b96f&sideLabels=a0a0b0&dates=555555" height="185"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqvarshney&bg_color=0d1117&color=e2b96f&line=30363d&point=e2b96f&area=true&area_color=1a1a2e&hide_border=true" width="94%"/>
-</div>
-
 ---
 
 <br/>
