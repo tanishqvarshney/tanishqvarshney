@@ -80,21 +80,21 @@ Results-driven **Software Engineer** with **1.5+ years** of experience building 
 
 ## 🚀 Featured Projects
 
-### 🧠 [DocuMind — AI-Powered RAG Document QA System](https://github.com/tanishqvarshney)
+### 🧠 [DocuMind — AI-Powered RAG Document QA System](https://github.com/tanishqvarshney/RAG-Document_Intelligence)
 > **LangChain · OpenAI GPT-4 · FAISS · FastAPI · React.js · AWS · Docker**
 
 End-to-end production RAG system enabling semantic search and natural language Q&A over large document repositories. Achieves **87% answer accuracy**, **sub-2s response latency**, and **99.5% uptime** on AWS.
 
 ---
 
-### 💬 [Tovo — Real-Time Chat & Video Call App](https://github.com/tanishqvarshney)
+### 💬 [Tovo — Real-Time Chat & Video Call App](https://github.com/tanishqvarshney/Tovo)
 > **React · Express.js · MongoDB · TailwindCSS · Zustand · JWT · Stream API**
 
 Full-stack real-time communication platform supporting group chats, video calls, and screen sharing for **500+ concurrent users** with JWT-secured sessions.
 
 ---
 
-### 🎬 [Netflix Clone — Streaming Interface](https://github.com/tanishqvarshney)
+### 🎬 [Netflix Clone — Streaming Interface](https://github.com/tanishqvarshney/NetflixApp_clone)
 > **React · Redux Toolkit · TMDb API · Vercel**
 
 Responsive streaming UI with dynamic categories, real-time movie data via TMDb API, and global state management with Redux Toolkit.
