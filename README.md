@@ -1,190 +1,140 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d0d0d,1a1a2e,16213e&height=220&text=Tanishq%20Varshney&fontSize=55&fontColor=e2b96f&fontAlignY=45&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%2FML&descSize=16&descColor=a0a0b0&descAlignY=65&animation=fadeIn" width="100%"/>
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A2E4A&height=160&section=header&text=Tanishq%20Varshney&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=58&descSize=16&descColor=B8960C" />
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A2E4A&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+1.5%2B+Years+Experience;Full-Stack+%2B+Backend+%2B+AI%2FML+Systems;Spring+Boot+%7C+React.js+%7C+LangChain+%7C+AWS;Building+Scalable%2C+Production-Grade+Systems" alt="Typing SVG" />
+</h3>
+
+---
+
+## 👨‍💻 About Me
+
+Results-driven **Software Engineer** with **1.5+ years** of experience building scalable microservices, data pipelines, and AI-powered full-stack applications for enterprise clients.
+
+- 🏢 Currently working at **Bidgely, Bangalore** — engineering Spring Boot microservices & data pipelines for 7+ global utility clients
+- 🤖 Built **DocuMind** — an end-to-end production RAG system using LangChain, OpenAI GPT-4, FAISS & FastAPI deployed on AWS
+- 📈 Improved system uptime by **25%** and reduced incident resolution time by **40%** in production environments
+- 🎓 Pursuing **M.Sc. Computer Science** at Woolf University
+- 🌱 Currently deepening expertise in **System Design, AI/LLM Pipelines & Microservices Architecture**
+- 📍 Based in **Noida, India** — open to roles in **Delhi NCR & Pune**
+- 📫 Reach me at **tanishqvarshney9455@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45" alt="Java" title="Java"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="45" alt="Python" title="Python"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="45" alt="HTML5" title="HTML5"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" alt="CSS3" title="CSS3"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=22&duration=4000&pause=800&color=e2b96f&center=true&vCenter=true&width=680&lines=Crafting+scalable+systems+that+power+the+real+world.;1.5%2B+years+%E2%80%A2+Enterprise+Backend+%26+Microservices.;RAG+%2F+LLM+pipelines+%E2%80%A2+LangChain+%E2%80%A2+OpenAI+%E2%80%A2+FAISS.;Spring+Boot+%E2%80%A2+React.js+%E2%80%A2+AWS+%E2%80%A2+Docker.;Open+to+exciting+roles+in+Delhi+NCR+%26+Pune." alt="typing"/>
+### ⚙️ Frameworks & Libraries
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="45" alt="Spring Boot" title="Spring Boot"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45" alt="React.js" title="React.js"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="45" alt="Express.js" title="Express.js"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="45" alt="Node.js" title="Node.js"/>
 </div>
 
-<br/>
+### 🗄️ Databases
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL" title="MySQL"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="45" alt="MongoDB" title="MongoDB"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="45" alt="PostgreSQL" title="PostgreSQL"/>
+</div>
+
+### ☁️ Cloud, DevOps & Tools
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="AWS" title="AWS"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="45" alt="Docker" title="Docker"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="45" alt="Jenkins" title="Jenkins"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="45" alt="Git" title="Git"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux"/>
+</div>
+
+### 🤖 AI / LLM
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0078D4?style=for-the-badge&logo=meta&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [DocuMind — AI-Powered RAG Document QA System](https://github.com/tanishqvarshney)
+> **LangChain · OpenAI GPT-4 · FAISS · FastAPI · React.js · AWS · Docker**
+
+End-to-end production RAG system enabling semantic search and natural language Q&A over large document repositories. Achieves **87% answer accuracy**, **sub-2s response latency**, and **99.5% uptime** on AWS.
+
+---
+
+### 💬 [Tovo — Real-Time Chat & Video Call App](https://github.com/tanishqvarshney)
+> **React · Express.js · MongoDB · TailwindCSS · Zustand · JWT · Stream API**
+
+Full-stack real-time communication platform supporting group chats, video calls, and screen sharing for **500+ concurrent users** with JWT-secured sessions.
+
+---
+
+### 🎬 [Netflix Clone — Streaming Interface](https://github.com/tanishqvarshney)
+> **React · Redux Toolkit · TMDb API · Vercel**
+
+Responsive streaming UI with dynamic categories, real-time movie data via TMDb API, and global state management with Redux Toolkit.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://linkedin.com/in/tanishqvarshney">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
+
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishqvarshney&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqvarshney&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tanishqvarshney&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="200" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/tanishqvarshney" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:tanishqvarshney9455@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/tanishqvarshney">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white"/>
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=tanishqvarshney&style=flat-square&color=e2b96f&label=visitors"/>
-</div>
-
----
-
-<br/>
-
-## ❯ whoami
-```yaml
-name        : Tanishq Varshney
-role        : Software Engineer — Full-Stack · Backend · AI/ML
-location    : Noida, India  →  open to Delhi NCR · Pune
-experience  : 1.5+ years (enterprise-grade production systems)
-education   : M.S Computer Science · Woolf University
-               B.Tech CSE · AKTU
-learning    : LLM fine-tuning · Distributed Systems · System Design
-seeking     : Backend · Full-Stack · AI Engineer roles
-contact     : tanishqvarshney9455@gmail.com
-```
-
----
-
-<br/>
-
-## ❯ stack
-
-<table>
-<tr>
-  <td><strong>Languages</strong></td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark"/>
-  </td>
-</tr>
-<tr>
-  <td><strong>Frameworks</strong></td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=spring,react,express,nodejs&theme=dark"/>
-  </td>
-</tr>
-<tr>
-  <td><strong>Databases</strong></td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark"/>
-  </td>
-</tr>
-<tr>
-  <td><strong>Cloud & DevOps</strong></td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,linux&theme=dark"/>
-  </td>
-</tr>
-<tr>
-  <td><strong>AI / LLM</strong></td>
-  <td>
-    <img src="https://img.shields.io/badge/LangChain-000?style=flat-square&logo=chainlink&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-    <img src="https://img.shields.io/badge/FAISS-0078D4?style=flat-square&logo=meta&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white"/>
-  </td>
-</tr>
-</table>
-
----
-
-<br/>
-
-## ❯ projects
-
-<details open>
-<summary><b>🧠 DocuMind — AI-Powered RAG Document QA System</b></summary>
-<br/>
-
-> End-to-end production RAG pipeline for semantic search & natural language Q&A over large document repositories.
-
-| | |
-|---|---|
-| **Stack** | Python · LangChain · OpenAI GPT-4 · FAISS · FastAPI · React.js · AWS S3 · Docker |
-| **Highlights** | 87% answer accuracy · sub-100ms retrieval · <2s response latency · 99.5% uptime |
-| **Key Work** | Vector embeddings via `text-embedding-ada-002` · contextual re-ranking · JWT auth · GitHub Actions CI/CD |
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>💬 Tovo — Real-Time Chat & Video Call App</b></summary>
-<br/>
-
-> Full-stack real-time communication platform with live video, group chat, and screen sharing.
-
-| | |
-|---|---|
-| **Stack** | React · Express.js · MongoDB · TailwindCSS · Zustand · JWT · Stream API |
-| **Highlights** | 500+ concurrent users · video calls · screen sharing · message reactions |
-| **Key Work** | JWT session management · Stream API integration · scalable REST backend |
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🎬 Netflix Clone — Streaming Interface</b></summary>
-<br/>
-
-> Modern streaming UI with real-time movie data, dynamic categories, and optimised global state.
-
-| | |
-|---|---|
-| **Stack** | React · Redux Toolkit · Axios · TMDb API · Vercel |
-| **Highlights** | Responsive UI · Redux caching · seamless Vercel CI/CD |
-
-</details>
-
----
-
-<br/>
-
-## ❯ impact
-```
-▸  25%   improvement in system uptime across enterprise utility pipelines
-▸  40%   reduction in incident resolution time via precision production fixes
-▸  30%   enhancement in client system reliability post pipeline refactoring
-▸  87%   answer accuracy on RAG evaluation benchmarks (DocuMind)
-▸   7+   global utility clients served (NVE · PSEG · RMP · OGE · SCG · NSP · OUC)
-```
-
----
-
-<br/>
-
-## ❯ github stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishqvarshney&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e2b96f&icon_color=e2b96f&text_color=c9d1d9&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqvarshney&layout=compact&hide_border=true&bg_color=0d1117&title_color=e2b96f&text_color=c9d1d9" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tanishqvarshney&theme=github-dark&hide_border=true&background=0d1117&fire=e2b96f&ring=e2b96f&currStreakLabel=e2b96f&sideLabels=a0a0b0&dates=555555" height="185"/>
-</div>
-
----
-
-<br/>
-
-## ❯ connect
-
-<div align="center">
-```
-  ╭─────────────────────────────────────────────────╮
-  │  Always open to interesting problems & good tea  │
-  │                                                   │
-  │  📧  tanishqvarshney9455@gmail.com               │
-  │  💼  linkedin.com/in/tanishqvarshney             │
-  │  🐙  github.com/tanishqvarshney                  │
-  ╰─────────────────────────────────────────────────╯
-```
-
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/tanishqvarshney" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,e2b96f&height=100&section=footer&animation=fadeIn" width="100%"/>
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tanishqvarshney&label=Profile+Views&color=1A2E4A&style=flat" alt="Profile Views"/>
+</p>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A2E4A&height=100&section=footer"/>
