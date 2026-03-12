@@ -14,7 +14,7 @@ Results-driven **Software Engineer** with **1.5+ years** of experience building 
 - 🏢 Currently working at **Bidgely, Bangalore** — engineering Spring Boot microservices & data pipelines for 7+ global utility clients
 - 🤖 Built **DocuMind** — an end-to-end production RAG system using LangChain, OpenAI GPT-4, FAISS & FastAPI deployed on AWS
 - 📈 Improved system uptime by **25%** and reduced incident resolution time by **40%** in production environments
-- 🎓 Pursuing **M.Sc. Computer Science** at Woolf University
+- 🎓 Pursuing **M.S Computer Science** at Woolf University
 - 🌱 Currently deepening expertise in **System Design, AI/LLM Pipelines & Microservices Architecture**
 - 📍 Based in **Noida, India** — open to roles in **Delhi NCR & Pune**
 - 📫 Reach me at **tanishqvarshney9455@gmail.com**
