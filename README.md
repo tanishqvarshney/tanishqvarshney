@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://tanishqvarshney.github.io/Portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logoColor=white&labelColor=0D1117" /></a>
-  <a href="[https://www.linkedin.com/in/tanishqvarshney9455](https://www.linkedin.com/in/tanishq-varshney-6bbb49186/)"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" /></a>
+  <a href="[[https://www.linkedin.com/in/tanishqvarshney9455](https://www.linkedin.com/in/tanishq-varshney-6bbb49186/)](https://www.linkedin.com/in/tanishq-varshney-6bbb49186/)"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" /></a>
   <a href="mailto:tanishqvarshney9455@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0D1117" /></a>
   <a href="https://leetcode.com/tanishqvarshney9455"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0D1117" /></a>
 </p>
