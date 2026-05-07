@@ -1,198 +1,116 @@
 <div align="center">
 
-<!-- Premium Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0D1117,1A2E4A,B8960C&height=200&section=header&text=Tanishq%20Varshney&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=62&descSize=17&descColor=B8960C&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Tanishq%20Varshney&fontSize=56&fontColor=E6EDF3&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%20Infrastructure&descAlignY=60&descSize=15&descColor=8B949E" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=B8960C&center=true&vCenter=true&width=640&lines=Software+Engineer+%7C+1.5%2B+Years+Experience;Full-Stack+%2B+Backend+%2B+AI%2FML+Systems;Spring+Boot+%7C+React.js+%7C+LangChain+%7C+AWS;Building+Scalable%2C+Production-Grade+Systems" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231A2E4A.svg?style=for-the-badge&logo=githubpages&logoColor=B8960C)](https://tanishqvarshney.github.io/Portfolio-website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishqvarshney)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishqvarshney9455@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishqvarshney)
+<p>
+  <a href="https://tanishqvarshney.github.io/Portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://www.linkedin.com/in/tanishqvarshney"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" /></a>
+  <a href="mailto:tanishqvarshney9455@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0D1117" /></a>
+  <a href="https://github.com/tanishqvarshney"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=E6EDF3&labelColor=0D1117" /></a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### About
 
-Results-driven **Software Engineer** with **1.5+ years** of experience building scalable microservices, data pipelines, and AI-powered full-stack applications for global enterprise clients.
+Software Engineer focused on **distributed systems, backend infrastructure, and applied AI**. Currently building production-grade microservices and data pipelines that power energy intelligence platforms for global utilities.
 
-- 🏢 **Bidgely, Bangalore** — Spring Boot microservices & data pipelines for **7+ global utility clients**
-- 📈 Maintained **99.9% uptime** · Reduced incident resolution time by **40%**
-- 🎓 **M.S Computer Science** — Woolf University
-- 🌱 Currently deepening expertise in **System Design, AI/LLM Pipelines & Microservices Architecture**
-- 🌐 Portfolio: **[tanishqvarshney.github.io/Portfolio-website](https://tanishqvarshney.github.io/Portfolio-website/)**
-- 📍 Based in **Noida, India** — open to **Delhi NCR & Pune**
-- 📫 **tanishqvarshney9455@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="Java" title="Java"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="Python" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" title="TypeScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="HTML5" title="HTML5"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="CSS3" title="CSS3"/>
-</div>
-</details>
-
-<details open>
-<summary><b>⚙️ Frameworks & Libraries</b></summary>
-<br/>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50" alt="Spring Boot" title="Spring Boot"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="React.js" title="React.js"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="50" alt="Next.js" title="Next.js"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="Node.js" title="Node.js"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="50" alt="Express.js" title="Express.js"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" height="50" alt="FastAPI" title="FastAPI"/>
-</div>
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="MySQL" title="MySQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL" title="PostgreSQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" alt="MongoDB" title="MongoDB"/>
-</div>
-</details>
-
-<details open>
-<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
-<br/>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" title="AWS"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" alt="Docker" title="Docker"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="50" alt="Jenkins" title="Jenkins"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="50" alt="GitHub Actions" title="GitHub Actions"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="50" alt="Git" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" title="Linux"/>
-</div>
-</details>
-
-<details open>
-<summary><b>🤖 AI / LLM Stack</b></summary>
-<br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-0078D4?style=for-the-badge&logo=meta&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</details>
+```yaml
+role:        Software Engineer
+focus:       Backend · Distributed Systems · AI Infrastructure
+location:    Noida, India
+interests:   Systems design · LLM infra · Performance engineering
+```
 
 ---
 
-## 🚀 Featured Projects
+### Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Bidgely** — *Software Engineer* · `Nov 2024 – Feb 2026`
+Owned backend services and data pipelines serving **7+ enterprise utility clients** across North America. Drove system reliability initiatives, production incident response, and end-to-end pilot enablement for new client onboarding.
 
-### 🧠 [DocuMind — AI RAG Document QA](https://github.com/tanishqvarshney/RAG-Document_Intelligence)
-
-> `LangChain` `OpenAI GPT-4` `FAISS` `FastAPI` `React.js` `AWS` `Docker`
-
-Production-grade RAG system enabling semantic search & natural language Q&A over large document repositories.
-
-**87% answer accuracy** · **sub-2s latency** · **99.5% uptime on AWS**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [TanCura — Healthcare Intelligence Platform](https://github.com/tanishqvarshney/TanCura-Patient-Claims-Prescription-Management-System)
-
-> `Angular 17` `.NET 8` `SQL Server 2022` `Redis` `Docker` `GitHub Actions`
-
-Production-grade platform orchestrating medical claims, clinical adjudications, and pharmaceutical benefits with autonomous claim lifecycle management and immutable audit logging.
-
-**Autonomous adjudication engine** · **NDC-level pharma verification** · **Glassmorphism UI**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 [Nifty 50 Live Trading Dashboard](https://github.com/tanishqvarshney)
-
-> `Next.js 14` `TypeScript` `TailwindCSS` `Recharts` `Framer Motion` `Vercel`
-
-High-performance financial dashboard with live data polling every 10 seconds, multi-timeframe charts (1D/1W/1M/3M/1Y), and real-time market sentiment indicators.
-
-**Zero-downtime CI/CD** · **Type-safe codebase** · **Deployed on Vercel**
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 [Netflix Clone — Full-Stack Streaming](https://github.com/tanishqvarshney/NetflixApp_clone)
-
-> `React` `Node.js` `Express.js` `MongoDB` `JWT` `TMDb API`
-
-Full-stack streaming app with user auth, JWT-secured sessions, real-time movie browsing, search, and personalized watchlists.
-
-**Decoupled client-server** · **JWT auth** · **TMDb API integrated**
-
-</td>
-</tr>
-</table>
+```
+99.9%  service uptime across owned services
+40%    reduction in incident MTTR via diagnostic automation
+30%    improvement in pipeline reliability through architecture refactor
+```
 
 ---
 
-## 🏆 Key Achievements
+### Engineering Stack
 
-| Metric | Impact |
-|--------|--------|
-| 🟢 System Uptime | **99.9%** across enterprise backend systems |
-| ⚡ Incident Resolution | **40% faster** via precision production scripting |
-| 🔧 System Reliability | **30% improvement** via pipeline architecture enhancements |
-| 🚀 Environment Setup | **30% faster** via automated shell scripts |
-| 🏅 Recognition | Independently owned end-to-end pilot enablement for **PSEG SMB** |
+```
+Languages       Java · Python · TypeScript · JavaScript · SQL
+Backend         Spring Boot · FastAPI · Node.js · Express · .NET 8
+Frontend        React · Next.js · Angular 17 · TailwindCSS
+Data            PostgreSQL · MySQL · MongoDB · Redis · SQL Server
+Infrastructure  AWS (EC2, S3, SQS) · Docker · Jenkins · GitHub Actions · Nginx
+AI / ML         LangChain · FAISS · OpenAI · HuggingFace · RAG pipelines
+```
 
 ---
 
-## 📊 GitHub Stats
+### Selected Work
+
+#### **DocuMind** — Retrieval-Augmented Document Intelligence
+*FastAPI · LangChain · FAISS · React · AWS · Docker*
+
+Production RAG system for semantic search and natural language Q&A over large document corpora. Designed the embedding pipeline, vector store sharding strategy, and inference path.
+
+`87% answer accuracy` · `sub-2s p95 latency` · `99.5% uptime`
+
+→ [github.com/tanishqvarshney/RAG-Document_Intelligence](https://github.com/tanishqvarshney/RAG-Document_Intelligence)
+
+---
+
+#### **TanCura** — Healthcare Claims Intelligence Platform
+*Angular 17 · .NET 8 · SQL Server · Redis · Docker · GitHub Actions*
+
+End-to-end claims orchestration platform with autonomous adjudication, NDC-level pharmaceutical verification, and immutable audit logging. Implemented the background adjudication engine driving claims through the full lifecycle.
+
+`Autonomous claim lifecycle` · `Distributed caching layer` · `Containerized CI/CD`
+
+→ [github.com/tanishqvarshney/TanCura-Patient-Claims-Prescription-Management-System](https://github.com/tanishqvarshney/TanCura-Patient-Claims-Prescription-Management-System)
+
+---
+
+#### **Nifty 50 Live Trading Dashboard** — Real-Time Market Intelligence
+*Next.js 14 · TypeScript · Recharts · Vercel*
+
+Low-latency financial dashboard with 10s polling cadence, multi-timeframe analytics (1D / 1W / 1M / 3M / 1Y), and live sentiment indicators. Type-safe end to end.
+
+`Real-time data plane` · `Sub-second TTI` · `Zero-downtime deploys`
+
+→ [github.com/tanishqvarshney](https://github.com/tanishqvarshney)
+
+---
+
+#### **Netflix Clone** — Full-Stack Streaming Application
+*React · Node.js · Express · MongoDB · JWT · TMDb API*
+
+Decoupled streaming application with JWT-based auth, session management, search, and personalized watchlists.
+
+→ [github.com/tanishqvarshney/NetflixApp_clone](https://github.com/tanishqvarshney/NetflixApp_clone)
+
+---
+
+### Engineering Principles
+
+- **Reliability over novelty.** Production systems are judged on what doesn't break.
+- **Measure, don't guess.** Latency, error rate, throughput — numbers beat narratives.
+- **Tight feedback loops.** Fast CI, fast rollback, fast learning.
+- **Boring infrastructure, interesting product.** Reach for proven primitives first.
+
+---
+
+### GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanishqvarshney&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=B8960C&icon_color=1A2E4A&text_color=FFFFFF&border_radius=12" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqvarshney&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B8960C&text_color=FFFFFF&border_radius=12" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=tanishqvarshney&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=B8960C&fire=B8960C&currStreakLabel=B8960C" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tanishqvarshney&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF&text_color=8B949E&hide=issues" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqvarshney&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&langs_count=8" height="160"/>
 
 </div>
 
@@ -200,18 +118,6 @@ Full-stack streaming app with user auth, JWT-secured sessions, real-time movie b
 
 <div align="center">
 
-## 🤝 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-1A2E4A?style=for-the-badge)](https://tanishqvarshney.github.io/Portfolio-website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishqvarshney)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishqvarshney9455@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishqvarshney)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=tanishqvarshney&label=Profile+Views&color=B8960C&style=for-the-badge" alt="Profile Views"/>
+<sub>Open to senior backend, distributed systems, and AI infrastructure roles · Delhi NCR · Pune · Remote</sub>
 
 </div>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0D1117,1A2E4A,B8960C&height=120&section=footer"/>
