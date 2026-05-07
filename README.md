@@ -1,12 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Tanishq%20Varshney&fontSize=56&fontColor=E6EDF3&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%20Infrastructure&descAlignY=60&descSize=15&descColor=8B949E" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Tanishq%20Varshney&fontSize=56&fontColor=E6EDF3&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Cloud&descAlignY=60&descSize=15&descColor=8B949E" />
 
 <p>
   <a href="https://tanishqvarshney.github.io/Portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logoColor=white&labelColor=0D1117" /></a>
   <a href="https://www.linkedin.com/in/tanishqvarshney"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" /></a>
   <a href="mailto:tanishqvarshney9455@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0D1117" /></a>
   <a href="https://github.com/tanishqvarshney"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=E6EDF3&labelColor=0D1117" /></a>
+  <a href="https://leetcode.com/tanishqvarshney"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0D1117" /></a>
 </p>
 
 </div>
@@ -15,84 +16,96 @@
 
 ### About
 
-Software Engineer focused on **distributed systems, backend infrastructure, and applied AI**. Currently building production-grade microservices and data pipelines that power energy intelligence platforms for global utilities.
+Software Engineer with **1.5+ years** building scalable backend systems, microservices, and data ingestion pipelines for global enterprise clients. Strong focus on **distributed systems, production reliability, and quality engineering** across QA, UAT, and production environments.
 
 ```yaml
 role:        Software Engineer
-focus:       Backend · Distributed Systems · AI Infrastructure
+focus:       Backend · Microservices · Data Pipelines · Cloud Infrastructure
 location:    Noida, India
-interests:   Systems design · LLM infra · Performance engineering
+methodology: Agile/Scrum · TDD · BDD · System Design · LLD
 ```
 
 ---
 
 ### Experience
 
-**Bidgely** — *Software Engineer* · `Nov 2024 – Feb 2026`
-Owned backend services and data pipelines serving **7+ enterprise utility clients** across North America. Drove system reliability initiatives, production incident response, and end-to-end pilot enablement for new client onboarding.
+**Bidgely Technologies** — *Software Engineer* · `Nov 2024 – Feb 2026` · Bangalore
+Owned backend services and data ingestion pipelines for **7+ global utility clients** — Nevada Energy, PSEG SMB, Rocky Mountain Power, OGE, SCG, NSP, OUC. Drove pilot onboarding, production reliability, and CI/CD release management across distributed event-driven systems.
 
 ```
-99.9%  service uptime across owned services
-40%    reduction in incident MTTR via diagnostic automation
+99.9%  service uptime maintained across enterprise backend systems
+40%    reduction in incident MTTR via precision production scripting
 30%    improvement in pipeline reliability through architecture refactor
+30%    faster environment provisioning via automated shell scripts
+20%    reduction in manual engineering effort via workflow automation
 ```
+
+**The Sparks Foundation** — *Software Developer Intern* · `Sept 2023 – Nov 2023` · Remote
+Built responsive full-stack web interfaces, designed normalized MySQL schemas, and contributed to Agile team workflows with Git/GitHub version control.
 
 ---
 
 ### Engineering Stack
 
 ```
-Languages       Java · Python · TypeScript · JavaScript · SQL
-Backend         Spring Boot · FastAPI · Node.js · Express · .NET 8
-Frontend        React · Next.js · Angular 17 · TailwindCSS
-Data            PostgreSQL · MySQL · MongoDB · Redis · SQL Server
-Infrastructure  AWS (EC2, S3, SQS) · Docker · Jenkins · GitHub Actions · Nginx
-AI / ML         LangChain · FAISS · OpenAI · HuggingFace · RAG pipelines
+Languages       Java · Python · JavaScript · TypeScript · C++ · SQL
+Backend         Spring Boot · FastAPI · Node.js · Express · ASP.NET Core 8 · REST APIs · Microservices
+Frontend        React · Next.js · Angular 17 · Redux Toolkit · TailwindCSS
+Data            PostgreSQL · MySQL · MongoDB · Cassandra · SQL Server
+Cloud / DevOps  AWS (EC2, S3, SQS) · Docker · Jenkins · GitHub Actions · Apache Airflow · Shell · SFTP
+Quality         TDD · BDD · Unit & Integration Testing · API Testing · Performance Testing
+Tools           Git · Postman · Jira · Figma · System Design · LLD · Code Review
 ```
 
 ---
 
 ### Selected Work
 
+#### **Enterprise Utility Data Ingestion Platform** — *Bidgely · Production*
+*Java · Spring Boot · AWS (S3, SQS, EC2) · Apache Airflow · Cassandra · MySQL · Jenkins · GitHub Actions*
+
+S3-based ingestion pipelines serving **7+ utility clients** with schema validation, parsing, and downstream aggregation across distributed event-driven services. Owned end-to-end pilot onboarding for **PSEG SMB** from UAT configuration through production deployment and post-launch support.
+
+- Designed event-driven workflows over **AWS SQS** with retry logic and **Dead Letter Queue** handling to isolate failed jobs and prevent infinite retry loops.
+- Added structured logging at ingestion, validation, parsing, and trigger checkpoints — **reducing production debug time by 40%**.
+- Hardened pipelines with null-safe validation and bad-record isolation so malformed records no longer broke entire runs.
+- Automated UAT → production promotion via **Jenkins + GitHub Actions** with environment validation gates for safe rollouts.
+
+---
+
 #### **DocuMind** — Retrieval-Augmented Document Intelligence
-*FastAPI · LangChain · FAISS · React · AWS · Docker*
+*Python · FastAPI · React · LangChain · FAISS · AWS (EC2, S3) · Docker · GitHub Actions*
 
-Production RAG system for semantic search and natural language Q&A over large document corpora. Designed the embedding pipeline, vector store sharding strategy, and inference path.
+Production-grade RAG system enabling natural language Q&A over large document repositories — PDFs, DOCXs, CSVs.
 
-`87% answer accuracy` · `sub-2s p95 latency` · `99.5% uptime`
+- Scalable **async RESTful API** with JWT auth, rate limiting, and structured JSON error handling.
+- Automated multi-format ingestion pipeline with document versioning and metadata filtering — **35% improvement in result relevance**.
+- Deployed on AWS via Docker + GitHub Actions CI/CD: **99.5% uptime · sub-2s p95 latency**.
 
 → [github.com/tanishqvarshney/RAG-Document_Intelligence](https://github.com/tanishqvarshney/RAG-Document_Intelligence)
 
 ---
 
-#### **TanCura** — Healthcare Claims Intelligence Platform
-*Angular 17 · .NET 8 · SQL Server · Redis · Docker · GitHub Actions*
+#### **TanCura** — Patient Claims & Prescription Management System
+*ASP.NET Core 8 · Angular 17 · SQL Server · EF Core · JWT · Docker · GitHub Actions · .NET Worker Services*
 
-End-to-end claims orchestration platform with autonomous adjudication, NDC-level pharmaceutical verification, and immutable audit logging. Implemented the background adjudication engine driving claims through the full lifecycle.
+Full-stack healthcare claims processing platform with REST APIs for submission, adjudication, and a rules engine for eligibility, duplicates, and coverage checks.
 
-`Autonomous claim lifecycle` · `Distributed caching layer` · `Containerized CI/CD`
+- **Prescription benefit module** for real-time formulary lookup, copay calculation, and prior authorization.
+- **.NET Worker Service** for async claim processing with mock payer APIs, retries, and scheduling.
+- **JWT-based RBAC** (Patient / Provider / Admin) with Angular route guards and HIPAA-inspired audit logging.
+- Optimized SQL Server with stored procedures and indexed views; built an admin analytics dashboard in Angular Material.
 
 → [github.com/tanishqvarshney/TanCura-Patient-Claims-Prescription-Management-System](https://github.com/tanishqvarshney/TanCura-Patient-Claims-Prescription-Management-System)
 
 ---
 
 #### **Nifty 50 Live Trading Dashboard** — Real-Time Market Intelligence
-*Next.js 14 · TypeScript · Recharts · Vercel*
+*Next.js 14 · TypeScript · TailwindCSS · Recharts · Vercel*
 
-Low-latency financial dashboard with 10s polling cadence, multi-timeframe analytics (1D / 1W / 1M / 3M / 1Y), and live sentiment indicators. Type-safe end to end.
-
-`Real-time data plane` · `Sub-second TTI` · `Zero-downtime deploys`
+Low-latency financial dashboard with 10s polling cadence, multi-timeframe analytics (1D / 1W / 1M / 3M / 1Y), and live market sentiment indicators. Type-safe end to end with zero-downtime deploys.
 
 → [github.com/tanishqvarshney](https://github.com/tanishqvarshney)
-
----
-
-#### **Netflix Clone** — Full-Stack Streaming Application
-*React · Node.js · Express · MongoDB · JWT · TMDb API*
-
-Decoupled streaming application with JWT-based auth, session management, search, and personalized watchlists.
-
-→ [github.com/tanishqvarshney/NetflixApp_clone](https://github.com/tanishqvarshney/NetflixApp_clone)
 
 ---
 
@@ -102,6 +115,18 @@ Decoupled streaming application with JWT-based auth, session management, search,
 - **Measure, don't guess.** Latency, error rate, throughput — numbers beat narratives.
 - **Tight feedback loops.** Fast CI, fast rollback, fast learning.
 - **Boring infrastructure, interesting product.** Reach for proven primitives first.
+
+---
+
+### Education & Certifications
+
+```
+M.S. Computer Science       Woolf University                          Aug 2023 – Dec 2025
+Software Development        Scaler Academy, Bangalore                 Aug 2023 – Aug 2024
+B.Tech, CSE                 Dr. A.P.J. Abdul Kalam Technical University   2018 – 2022
+```
+
+**Certifications** — Accenture Dev & Advanced Engineering (2024) · Data Structures & Algorithms (Scaler) · Java, MERN, React, SQL, High Level Design (Scaler / NSDC) · Full Stack Data Science (iNeuron)
 
 ---
 
@@ -118,6 +143,6 @@ Decoupled streaming application with JWT-based auth, session management, search,
 
 <div align="center">
 
-<sub>Open to senior backend, distributed systems, and AI infrastructure roles · Delhi NCR · Pune · Remote</sub>
+<sub>Open to Software Engineer roles — Backend · Distributed Systems · Cloud Infrastructure · Delhi NCR · Pune · Remote</sub>
 
 </div>
