@@ -121,21 +121,31 @@ Low-latency financial dashboard with 10s polling cadence, multi-timeframe analyt
 ### Education & Certifications
 
 ```
-M.S. Computer Science       Woolf University                          Aug 2023 – Dec 2025
-Software Development        Scaler Academy, Bangalore                 Aug 2023 – Aug 2024
-B.Tech, CSE                 Dr. A.P.J. Abdul Kalam Technical University   2018 – 2022
+M.S. Computer Science       Woolf University                              Aug 2023 – Dec 2025
+Software Development        Scaler Academy, Bangalore                     Aug 2023 – Aug 2024
+B.Tech, CSE                 Dr. A.P.J. Abdul Kalam Technical University       2018 – 2022
 ```
 
 **Certifications** — Accenture Dev & Advanced Engineering (2024) · Data Structures & Algorithms (Scaler) · Java, MERN, React, SQL, High Level Design (Scaler / NSDC) · Full Stack Data Science (iNeuron)
 
 ---
 
-### GitHub
+### GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanishqvarshney&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF&text_color=8B949E&hide=issues" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqvarshney&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&langs_count=8" height="160"/>
+<a href="https://github.com/tanishqvarshney">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanishqvarshney&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF&text_color=8B949E&hide=issues" height="160" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/tanishqvarshney">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tanishqvarshney&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&langs_count=8" height="160" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/tanishqvarshney">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqvarshney&theme=github-compact&hide_border=true&bg_color=0D1117&color=E6EDF3&line=58A6FF&point=E6EDF3&area=true&area_color=58A6FF" width="98%" alt="Activity Graph"/>
+</a>
 
 </div>
 
