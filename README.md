@@ -104,7 +104,7 @@ Full-stack healthcare claims processing platform with REST APIs for submission, 
 
 Low-latency financial dashboard with 10s polling cadence, multi-timeframe analytics (1D / 1W / 1M / 3M / 1Y), and live market sentiment indicators. Type-safe end to end with zero-downtime deploys.
 
-→ [github.com/tanishqvarshney](https://github.com/tanishqvarshney)
+→ [github.com/tanishqvarshney/Nifty-50-Live-Trading-Data-Dashboard](https://github.com/tanishqvarshney/Nifty-50-Live-Trading-Data-Dashboard)
 
 ---
 
