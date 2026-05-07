@@ -132,13 +132,13 @@ Production-grade RAG system enabling semantic search & natural language Q&A over
 </td>
 <td width="50%" valign="top">
 
-### 💸 [AI Expense Tracker — Smart Finance App](https://github.com/tanishqvarshney)
+### 🛡️ [TanCura — Healthcare Intelligence Platform](https://github.com/tanishqvarshney/TanCura-Patient-Claims-Prescription-Management-System)
 
-> `React.js` `Node.js` `MongoDB` `OpenAI API` `TailwindCSS`
+> `Angular 17` `.NET 8` `SQL Server 2022` `Redis` `Docker` `GitHub Actions`
 
-AI-powered expense tracker with intelligent categorization, spending insights, budget recommendations, and a real-time financial dashboard.
+Production-grade platform orchestrating medical claims, clinical adjudications, and pharmaceutical benefits with autonomous claim lifecycle management and immutable audit logging.
 
-**AI-driven categorization** · **Visual spend analytics** · **Budget forecasting**
+**Autonomous adjudication engine** · **NDC-level pharma verification** · **Glassmorphism UI**
 
 </td>
 </tr>
